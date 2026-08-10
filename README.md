@@ -1,6 +1,6 @@
 # Code-Toon Backend
 
-Welcome to the backend repository for Code-Toon—a multi-language online judge engine integrated with a 6-agent AI tutoring pipeline. 
+Welcome to the backend repository for Code-Toon a multi-language online judge engine integrated with a 6-agent AI tutoring pipeline. 
 
 This project was built to address two core requirements:
 1. Executing user submissions asynchronously and safely in isolated environments without blocking the main event loop.
